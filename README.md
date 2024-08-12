@@ -1,1 +1,1 @@
-# CodeClauseInternship_CreditCardFraudDetection
+# CreditCardFraudDetection
